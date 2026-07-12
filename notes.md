@@ -1,4 +1,4 @@
-## verbs 
+### verbs 
 # common verb form
 {
 
@@ -18,8 +18,7 @@
 
 
 # fucked up verbs
-{
-    essen       : to eat
+{   essen       : to eat
 
     ich         | esse
     du          | isst
@@ -28,11 +27,51 @@
     ihr         | esst
     Sie         | essen
 }
+{   können      : can
+
+    ich         | kann
+    du          | kannst
+    er/sie/es   | kann
+    wir         | können
+    ihr         | könnt
+    Sie         | können
+}
+{   nehmen      : to take
+
+    ich         | nehme
+    du          | nimmst
+    er/sie/es   | nimmt
+    wir         | nehmen
+    ihr         | nehmt
+    Sie         | nehmen
+}
+
+## phrase 
+    Danke and its bros
+    {
+        Danke sehr!
+        Oh danke!
+        Herzichen Dnak!
+        Vielen Dank!
+    }
 
 
 ## common qustions 
     wie heißt das auf Deutsch?
     what is this in german
+
+
+### just notes
+
+## wie oft
+nie : never 0% 
+fast nie ~0%
+
+manchmnal: 50%
+
+oft : 75%
+fast immer ~100%
+immer : always 100%
 
 
 ## adjssss
