@@ -27,6 +27,15 @@
     ihr         | esst
     Sie         | essen
 }
+{   wissen 
+
+    ich         | weiß
+    du          | weißt
+    er/sie/es   | weiß
+    wir         | wiessen
+    ihr         | wisst
+    Sie         | wissen
+}
 {   können      : can
 
     ich         | kann
@@ -46,6 +55,7 @@
     Sie         | nehmen
 }
 
+### just notes
 ## phrase 
     Danke and its bros
     {
@@ -57,21 +67,23 @@
 
 
 ## common qustions 
-    wie heißt das auf Deutsch?
+    Wie heißt das auf Deutsch?
     what is this in german
 
 
-### just notes
+    Wie viel Uhr ist es?
+    (what is the hour)
+    Wie spät ist es?
+    (how late is it)
+    what time is it
 
 ## wie oft
-nie : never 0% 
-fast nie ~0%
-
-manchmnal: 50%
-
-oft : 75%
-fast immer ~100%
-immer : always 100%
+    nie : never 0% 
+    fast nie ~0%
+    manchmnal: 50%
+    oft : 75%
+    fast immer ~100%
+    immer : always 100%
 
 
 ## adjssss
@@ -94,10 +106,37 @@ die Tasche              = purse
 der Drucker             = printer
 die+ Drucker            = printers
 die+ bälle              = balls
+das Kino                = cinema
+die Ausstellung         = gallery
+die kneipe              = bar
+
+
 
 ## compounds
 der Arbeitsplats        = {
     die Arbeit  = work
     der Platz   = place
 }
+
+## TIME!!!!!!
+# weekdays
+die+ Wochentage {
+    1 der Montag
+    2 der Dienstag
+    3 der Mittwoch
+    4 der Donnerstag
+    5 der Freitag
+    6 der Samstag
+    7 der Sonntag
+}
+
+# day times
+die+ Tageszeiten (die Tageszeit) {
+    der Morgan  : early
+    der Mittag  : middle
+    der Abend   : end
+    die Nacht   : night
+}
+
+das heute: today
 
