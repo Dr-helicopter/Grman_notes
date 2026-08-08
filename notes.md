@@ -1,5 +1,5 @@
 ### verbs 
-# common verb form
+## common verb form
 {
 
     ich         | bin   | brauche   
@@ -10,10 +10,15 @@
     Sie         | sind  | brauchen  
 }
 
+
 # common verbs
     brauchen    : to need/want
     finden      : to find
-    komme       : to come
+    komme       : to come + { 
+        an = ankommen : to arrive
+        mit = mitkommen : to come along
+        zurück = zurückkommen : to come back
+    }
     haben       : to have
 
 
@@ -27,7 +32,7 @@
     ihr         | esst
     Sie         | essen
 }
-{   wissen 
+{   wissen      : to know
 
     ich         | weiß
     du          | weißt
@@ -35,15 +40,6 @@
     wir         | wiessen
     ihr         | wisst
     Sie         | wissen
-}
-{   können      : can
-
-    ich         | kann
-    du          | kannst
-    er/sie/es   | kann
-    wir         | können
-    ihr         | könnt
-    Sie         | können
 }
 {   nehmen      : to take
 
@@ -54,6 +50,27 @@
     ihr         | nehmt
     Sie         | nehmen
 }
+
+## modals
+{   können      : can
+
+    ich         | kann
+    du          | kannst
+    er/sie/es   | kann
+    wir         | können
+    ihr         | könnt
+    Sie         | können
+}
+{   mögen       : like to
+
+    ich         | mag
+    du          | magst
+    er/sie/es   | mag
+    wir         | mögen
+    ihr         | mögt
+    Sie         | mögen
+}
+
 
 ### just notes
 ## phrase 
@@ -113,9 +130,14 @@ die kneipe              = bar
 
 
 ## compounds
-der Arbeitsplats        = {
+der Arbeitsplats = {
     die Arbeit  = work
     der Platz   = place
+}
+
+das Schwimmbad = {
+    Schwimm = swimming
+    das Bad = bath
 }
 
 ## TIME!!!!!!
