@@ -16,7 +16,8 @@ return {
 
 		},
 		mas = {
-			pattern = "%f[%w]der%f[%W]%s*%w*",
+			--pattern = "%f[%w]der%f[%W]%s*%w*",
+			pattern = "%f[%w]der%f[%W]%s*[^%s]+",
 			group = "GermanMas",
 		},
 		fem = {

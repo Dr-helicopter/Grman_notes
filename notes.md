@@ -161,4 +161,10 @@ die+ Tageszeiten (die Tageszeit) {
 }
 
 das heute: today
+das gestern: oposite of today
 
+# seasons n month
+der Frühling    -> der März, der April, der Mai
+der Sommer      -> der Juni, der Juli, der August
+der Harbst      -> der September, der Oktober, der November
+der Winter      -> der Dezember, der Januar der Februar
