@@ -20,7 +20,10 @@
         zurück = zurückkommen : to come back
     }
     haben       : to have
-
+    fangen      : to harvest,fish,collect +{
+        an = anfangen = to begin,start
+    }
+    gehen       : to go
 
 # fucked up verbs
 {   essen       : to eat
@@ -50,6 +53,15 @@
     ihr         | nehmt
     Sie         | nehmen
 }
+{   sehen       : to see
+
+    ich         | sehe
+    du          | siehst
+    er/sie/es   | sieht
+    wir         | sehen
+    ihr         | seht
+    Sie         | sehen
+}
 
 ## modals
 {   können      : can
@@ -69,6 +81,24 @@
     wir         | mögen
     ihr         | mögt
     Sie         | mögen
+}
+{   wollt       : want 
+
+    ich         | will
+    du          | willst
+    er/sie/es   | will
+    wir         | wollen
+    ihr         | wollt
+    Sie         | wollen
+}
+{   dürfen      : to allow
+
+    ich         | darf
+    du          | darfst
+    er/sie/es   | darf
+    wir         | dürfen
+    ihr         | dürft
+    Sie         | dürfen
 }
 
 
@@ -139,6 +169,12 @@ das Schwimmbad = {
     Schwimm = swimming
     das Bad = bath
 }
+
+das Herzeleid = {
+    das Herz    = heart
+    das leid    = pain, hurt, sorrow, woe
+}
+
 
 ## TIME!!!!!!
 # weekdays
