@@ -1,29 +1,32 @@
-### verbs 
+### verbs
 ## common verb form
 {
 
-    ich         | bin   | brauche   
-    du          | bist  | brauchst  
-    er/sie/es   | ist   | braucht   
-    wir         | sind  | brauchen  
-    ihr         | seid  | braucht   
-    Sie         | sind  | brauchen  
+    ich         | bin   | brauche
+    du          | bist  | brauchst
+    er/sie/es   | ist   | braucht
+    wir         | sind  | brauchen
+    ihr         | seid  | braucht
+    Sie         | sind  | brauchen
 }
 
 
 # common verbs
     brauchen    : to need/want
     finden      : to find
-    komme       : to come + { 
-        an = ankommen : to arrive
-        mit = mitkommen : to come along
-        zurück = zurückkommen : to come back
+    komme       : to come + {
+        an = ankommen           : to arrive
+        mit = mitkommen         : to come along
+        zurück = zurückkommen   : to come back
     }
     haben       : to have
     fangen      : to harvest,fish,collect +{
         an = anfangen = to begin,start
     }
     gehen       : to go
+    treffe      : to meet
+    besuchen    : to attend (on a regular basis)
+    spielen     : to play
 
 # fucked up verbs
 {   essen       : to eat
@@ -82,7 +85,7 @@
     ihr         | mögt
     Sie         | mögen
 }
-{   wollt       : want 
+{   wollt       : want
 
     ich         | will
     du          | willst
@@ -100,10 +103,18 @@
     ihr         | dürft
     Sie         | dürfen
 }
+{   muss        : must
 
+    ich         | muss
+    du          | musst
+    er/sie/es   | muss
+    wir         | müssen
+    ihr         | müsst
+    Sie         | müssen
+}
 
 ### just notes
-## phrase 
+## phrase
     Danke and its bros
     {
         Danke sehr!
@@ -113,7 +124,7 @@
     }
 
 
-## common qustions 
+## common qustions
     Wie heißt das auf Deutsch?
     what is this in german
 
@@ -125,30 +136,47 @@
     what time is it
 
 ## wie oft
-    nie : never 0% 
+    nie : never 0%
     fast nie ~0%
     manchmnal: 50%
     oft : 75%
     fast immer ~100%
     immer : always 100%
 
+## time preposition table !
+
+{   word        | meaning       | Example               | Meaning
+
+    am          | on            | am Montag             | on Monday
+    im          | in            | im Sommer             | in summer
+    um          | at            | um 8 Uhr              | at 8 o'clock
+    vor         | before / ago  | vor dem Essen         | before the meal
+    nach        | after         | nach dem Essen        | after the meal
+    seit        | since / for   | seit Montag           | since Monday
+    ab          | starting at   | ab Montag             | from Monday onward
+    bis         | until / by    | bis Montag            | until Monday
+    von ... bis | from ... to   | von Montag bis Freitag| Monday to Friday
+    für         | for (duration)| für zwei Tage         | for two days
+    in          | in / from now | in zwei Tagen         | in two days
+}
+
 
 ## adjssss
 Groß ist das Gegenteil von klein : Groß =! klein
 --------------------------------------------------------------------------------
     Groß =! klein
-    schön =! hässlich 
+    schön =! hässlich
     teuer =! billig
     schwer =! leicht : hard/heavy != easy/light
 
 
-### dictionary 
+### dictionary
 ## heap of words
 die Brille              = glasses
 der kugelschreiber      = pen
 der Bleistift           = pencil
 das Buch                = book
-die Flasche             = bottle 
+die Flasche             = bottle
 die Tasche              = purse
 der Drucker             = printer
 die+ Drucker            = printers
@@ -156,6 +184,10 @@ die+ bälle              = balls
 das Kino                = cinema
 die Ausstellung         = gallery
 die kneipe              = bar
+die Zeit                = time
+das Klaveir             = piano
+der Satz                = sentance, statement
+die+ Sätze              = plural of der Satz
 
 
 
@@ -166,8 +198,8 @@ der Arbeitsplats = {
 }
 
 das Schwimmbad = {
-    Schwimm = swimming
-    das Bad = bath
+    Schwimm     = swimming
+    das Bad     = bath
 }
 
 das Herzeleid = {
@@ -200,7 +232,9 @@ das heute: today
 das gestern: oposite of today
 
 # seasons n month
-der Frühling    -> der März, der April, der Mai
-der Sommer      -> der Juni, der Juli, der August
-der Harbst      -> der September, der Oktober, der November
-der Winter      -> der Dezember, der Januar der Februar
+der Frühling    -> der März     , der April     , der Mai
+der Sommer      -> der Juni     , der Juli      , der August
+der Harbst      -> der September, der Oktober   , der November
+der Winter      -> der Dezember , der Januar    , der Februar
+
+
