@@ -140,9 +140,9 @@ Rammstein!
 
 # Wollt ihr in Haut und Haaren untergehen?
 
-die Haut = skin
-das Haar = hair
-die+ Haare = hairs
+die Haut    = skin
+das Haar    = hair
+die+ Haare  = hairs
 
 'in Haut und Haaren' -> in skin and hair
 it has a general meaning of: compeletly, entiraly
@@ -196,7 +196,7 @@ der Rammstein = colliding stone, hitting stone {
 
 # Ihr seht die Kreuze auf dem Kissen
 
-das Kreuz = cross
+das Kreuz   = cross
 die+ Kreuze = crosses
 
 
@@ -265,9 +265,9 @@ wo : where
 herkommen : comming from
 
 tot = (adj) dead
-der Tote: dead man
-die Tote: dead woman
-die+ Toten: the dead 
+der Tote    = dead man
+die Tote    = dead woman
+die+ Toten  = the dead 
 
 
 general meaning:
@@ -280,7 +280,7 @@ Liebe ist Krieg
 ------------------------
 
 die Shlacht = battle
-der krieg = war
+der krieg   = war
 
 general meaning: 
 sex is a battle
