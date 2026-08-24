@@ -20,13 +20,16 @@
         zurück = zurückkommen   : to come back
     }
     haben       : to have
-    fangen      : to harvest,fish,collect +{
+    fangen      : to harvest,fish,collect + {
         an = anfangen = to begin,start
     }
     gehen       : to go
     treffe      : to meet
     besuchen    : to attend (on a regular basis)
     spielen     : to play
+    stehen      : to stand + {
+        auf     : to stand up, to rise up
+    }
 
 # fucked up verbs
 {   essen       : to eat
