@@ -339,9 +339,126 @@ der Schritt = step
 
 genau --adj--> exactly
 
-unterrichten : to be informed
+unterrichten : to informe
 
 
 meaning: 
 starting from today, i want to be informed of every exact step my son takes
 
+
+
+
+
+# Bruder
+: bro!
+
+
+# die Maschine! ... Es muss ein Mensch an der Machine sein!
+
+der Mensch = person, human
+
+meaning:
+the Machine! someone must be at the Machine!
+
+
+# Es w i r d ein Mensche an der Maschine sein
+
+Es wird ... sein : there will be ...
+
+meaning:
+someone will be at the Machine!
+
+
+# ICH
+: ME !!!!
+
+
+# Höre mich an... ich will mein Leben mit Dir tauschen...
+
+Höre mich an: hear me out
+
+tauschen : to swap
+
+
+meaning:
+hear me out, i want to swap places with you
+
+
+# Wartet auf mich beide
+Wartet : to wait
+beide : both
+
+meaning:
+wait for me (both of you)
+
+
+
+
+# Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte vergessen hatten
+
+
+Mitten --adj--> middle
+seltsames --adj--> strange
+
+das Jahrhundert = century
+die+ Jahrhunderte = centuries
+
+vergessen : to forget
+
+meanning:
+in the middle of metropolise lay a strange house that the centuries had forgotten
+
+
+# Der Mann, der darin whohnt war Rotwang, der Erfinder
+: the man who lived there was Rotwang the inventor
+
+
+[he's got that starwars-ass hand too]
+
+
+# Joh Fredersen...
+
+
+
+# Ein Hirn wie das Deine, Rotwang, müsste vergessen können...
+: a brain like yours, Rotwang, must be able to forget
+
+
+[oscar level avting befor the oscars were even a thing!]
+
+# Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib war und Du ein mann
+: i have forgotten somethong in my life only once: that hel was a woman and you were a man
+
+
+# lass die Tote ruhen, Rotwang... Sie ist Dir wie mir gestorben...
+
+ruhen : to rest
+gestorben --adj--> dead
+
+: let the dead rest Rotwang... she is as dead to you as she is to me
+
+
+# Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
+: she is not dead to me joh fredersen. to me SHE LIVES!!!!
+
+# Glaubst Du, der Verlust einer Hand sei zu hoher Preis für die Wieder-Erschaffung der Hel?
+
+Glaubst : to think 
+der Verlust = loss
+
+die WiederErschaffung = recreation
+
+: do you think the loss of a hand is too high of a price for the recreation of Hel?
+
+
+# Willst du sie sehen?
+: wanna see her?
+
+
+[HOW THE FUCK DID THEY MAKE THIS?]
+
+# Nun, Joh Fredersen ?! Lohnt es sich nicht, eine Hand zu verliren, um den 
+Menschen der Zukunft den M a s c h i n e n - M e n s c h e n 
+geschaffen zu habben ?! 
+--------------------------------------------------------------------------------
+: Well, Joh Fredersen? Isn't it worth losing a hand in order to have created the Machine-Man for the people of the future?!
