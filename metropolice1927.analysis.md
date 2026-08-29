@@ -42,7 +42,10 @@ Deep beneath the earth lay the city of the workers
 
 
 
-#  So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr türmte sich der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen und Bibliotheken, seinen theatern und Stadions.
+#  So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr türmte sich 
+der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen und 
+Bibliotheken, seinen theatern und Stadions.
+--------------------------------------------------------------------------------
 
 so ... so ...:
 just as ..., so ...
@@ -62,12 +65,15 @@ die+ theatern       = theaters
 die+ stadions       = stadiums
 
 meaninng : 
-as the city of the worksers lay deep under ground, so did tower haigh the residental above it,
-called the club of the sons. with its lecture rooms and librarries and theaters and studiums.
+as the city of the worksers lay deep under ground, so did tower haigh the 
+residental above it, called the club of the sons. with its lecture rooms
+and librarries and theaters and studiums.
 
 
 
-# Wie kommt es josaphte, dass ich durch meinnen sohn von der Explosion erfahre, statt von Ihnen !
+# Wie kommt es josaphte, dass ich durch meinnen sohn von der Explosion erfahre,
+statt von Ihnen !
+--------------------------------------------------------------------------------
 
 wie kommt es dass: littarly: how come it, meaning:
 "how is it that?"
@@ -108,8 +114,9 @@ natural translation:
 the fuck were you doing in the machine halls?
 
 
-# Ich wollte den Menschen in die Gesichter sehen,deren kline kinder meine Brüder, meine Schwestern sind.
-
+# Ich wollte den Menschen in die Gesichter sehen,deren kline kinder meine 
+Brüder, meine Schwestern sind.
+--------------------------------------------------------------------------------
 Ich wollte : means i wanted, 
 what ever comes after it is what "Ich" wanted
 
@@ -130,13 +137,18 @@ die+ Schwestern = sisters
 sind is conjegated here and is being controlled by the deren at the beginning 
 
 so it means:
-i wanted to look into the faces of the people, whose small children are my brothers and sisters.
+i wanted to look into the faces of the people, whose small children are my
+brothers and sisters.
 
 
 
 [can I just write down that i love this scene?. I really love this scene.]
 
-# Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle im Licht dieser Stadt... 
+# Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle im 
+Licht dieser Stadt... 
+--------------------------------------------------------------------------------
+
+
 herrliche --adj--> shiny, glrious
 
 dieser : this, such
@@ -144,14 +156,16 @@ dieser : this, such
 das Licht = light 
 
 meaning : 
-your glrious city, father and you the brain of it, and all of us in the light of this city...
+your glrious city, father and you the brain of it, and all of us in the light of
+this city...
 
 
 
 # und wo sind die Menschen, Vater deren Hände Deine Stadt erbauten ?
 
 bauten : to build
-erbauten: gives bauten a more formal and literary meaning, something like : bring to existance.
+erbauten: gives bauten a more formal and literary meaning, something like : bring
+to existance.
 
 meaning: and where are the people, father whose hands built your city?
 
@@ -272,7 +286,8 @@ Das heist: hinunter! - Vater hinunter! In die Tiefe!
 --------------------------------------------------------------------------------
 
 weisst is weißt in moder german and conjugated wissen meanning to know
-was das heisst : what that means... (here heisst meanning called can also mean to mean something) 
+was das heisst : what that means... 
+(here heisst meanning called can also mean to mean something) 
 
 entlassen : to dissmiss, to fired
 
@@ -291,7 +306,8 @@ go down to the depth
 
 # Wissen Sie, was das heisst, von Joh Fredersen so entlassen zu werden?
 
-here Sie is obvoiusly talking in a formal and respectfull way (freder is some sort of a prince afterall).
+here Sie is obvoiusly talking in a formal and respectfull way 
+(freder is some sort of a prince afterall).
 meaning :
 do you know what it means to be fired by john fredderen?
 
@@ -406,7 +422,7 @@ die+ Jahrhunderte = centuries
 vergessen : to forget
 
 meanning:
-in the middle of metropolise lay a strange house that the centuries had forgotten
+in the middle of metropolis lay a strange house that the centuries had forgotten
 
 
 # Der Mann, der darin whohnt war Rotwang, der Erfinder
@@ -461,4 +477,101 @@ die WiederErschaffung = recreation
 Menschen der Zukunft den M a s c h i n e n - M e n s c h e n 
 geschaffen zu habben ?! 
 --------------------------------------------------------------------------------
-: Well, Joh Fredersen? Isn't it worth losing a hand in order to have created the Machine-Man for the people of the future?!
+: Well, Joh Fredersen? 
+Isn't it worth losing a hand in order to have created the Machine-Man for the people of the future?!
+
+
+
+# Noch 24 Stunden Arbeit und kein Mensch, Joh Frederen, wird den Maschinen -
+Menschen von eiem Erdgeborenen unterscheiden können !
+--------------------------------------------------------------------------------
+
+der Erdgebornen : old german
+der Erdgeborenen = earthborn, born on earth {
+    die Erde = earth
+    der geboren = some one who has been born
+}
+
+unterscheiden : to distinguish
+
+meaning:
+in 24 hours of work, no one can distinguish the machine man form an ordenery 
+earth-born
+
+
+# Mein ist die Freau, Joh Fredersen! Dir bleib der Sohen der Hel!
+
+bleib : stay
+
+meaning:
+mine is the woman, with you stays the son of hel!
+[ mainiac ]
+
+# Und was führt Dich zu mir Joh Frederen?
+
+führen : to lead, to guid
+: and brings you here to me Joh Fredersen?
+
+
+# Ich brauche Deinen Rat wie stets, wenn alle meine Sachverständingen versagen...
+
+der Rat = advice
+die+ Sachverständingen = experts 
+versagen : to fail
+
+meaning: as always, i need your advice when all my experts fail
+
+
+# Kannst Du mir dise Pläne enträtseln, 
+die man seit Monaten in den Taschen meiner Arbeiter findet ? 
+
+man: people, they
+
+meaning: 
+can you decifer these maps for me? 
+they are being found in the pockets of workers for months
+
+
+
+# ...um zwei nach dem Schichtwechsel! Sei hat weider gerufen...
+
+der Schichtwechsel = shift switch {
+    der wechsel = switch
+}
+
+gerufen : to summon
+
+meaning:
+at 2 after the shift witch! she has summoned again
+
+
+# Vater - Vater ! Nehmen zehn Stunden niemals ein Ende ??!!
+
+Nhemen ... ein end: take an end
+fixed expressin , like "coming to an end""
+niemals : ever, never
+
+:father father , does this ten hour ever end?
+
+# es ist ein plan der zweitausendjährigen katakomben tief under den 
+Tiefbahnen Deiner Metropolis
+--------------------------------------------------------------------------------
+: it is a map of the 2000 years old catecombs running deep under the underground
+railways of your metropolis
+
+
+# Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben zu tun haben
+
+heraus : out 
+bekommen : to recive
+herausbekommen : to find out
+
+meaning: 
+i want to find out what my workers have to do in the catecombs
+
+
+# heute will ich euch die Legende OM TURMBAU ZU BABEL erzählen...
+
+erzählen : to narrate
+
+: today i want to tel you the story of the tower of babel
