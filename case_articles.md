@@ -1,0 +1,80 @@
+
+### Nominativ vs Akkusativ
+
+# der Mann sieht den Hund.
+the man sees the dog.
+
+
+here the man is the one who sees, the man is the 'doer' and the Dog is being seen
+
+# den Hund sieht der Mann.
+the man sees the dog.
+
+here also the man is the one who sees, the man is the 'doer' and the
+Dog is being seen.
+
+
+# WTF?
+the roles are not necessarily determined by the position of the words like in English
+the Nominative is the one who does the verb and the Akkusative (the one accused of the verb), is what the verb is being acted on. 
+the difference of 
+
+"den Hund sieht der man."
+and 
+"der Mann sieht den Hund."
+is what the phrasing emphasis is.
+like saying:
+"THE MAN!! sees the Dog."
+or 
+"the man sees THE DOG!!."
+
+
+## the boring list of tables
+
+# definite
+| Gender    | Nominativ (doer)  | Akkusativ (target)|
+| --------- | ----------------  | ----------------- |
+| Masculine | der Mann          | den Mann          |
+| Feminine  | die Frau          | die Frau          |
+| Neuter    | das Kind          | das Kind          |
+| Plural    | die+  Kinder      | die+ Kinder       |
+
+english meaning : "the"
+
+
+# indefinte:
+| Gender    | Nominativ     | Akkusativ     |
+| --------- | ------------- | ------------- |
+| Masculine | ein Mann      | einen Mann    |
+| Feminine  | eine Frau     | eine Frau     |
+| Neuter    | ein Kind      | ein Kind      |
+| Plural    | —             | —             |
+
+english meaning : "a/an"
+
+# negative
+| Gender    | Nominativ         | Akkusativ     |
+| --------- | ----------------  | ------------- |
+| Masculine | kein Mann         | keinen Mann   |
+| Feminine  | keine Frau        | keine Frau    |
+| Neuter    | kein Kind         | kein Kind     |
+| Plural    | keine Kinder      | keine Kinder  |
+
+english meaning : "not a/an"
+
+
+# pronouns:
+| Nominativ | Akkusativ |
+| --------- | --------- |
+| ich       | mich      |
+| du        | dich      |
+| er        | ihn       |
+| sie       | sie       |
+| es        | es        |
+| wir       | uns       |
+| ihr       | euch      |
+| sie       | sie       |
+| Sie       | Sie       |
+
+
+
