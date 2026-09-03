@@ -5,7 +5,8 @@
 the man sees the dog.
 
 
-here the man is the one who sees, the man is the 'doer' and the Dog is being seen
+here the man is the one who sees, the man is the 'doer' and the Dog is being  
+seen
 
 # den Hund sieht der Mann.
 the man sees the dog.
@@ -15,9 +16,12 @@ Dog is being seen.
 
 
 # WTF?
-the roles are not necessarily determined by the position of the words like in English
-the Nominative is the one who does the verb and the Akkusative (the one accused of the verb), is what the verb is being acted on. 
-the difference of 
+the roles are not necessarily determined by the position of the words 
+like in English the Nominative is the one who does the verb and 
+the Akkusative (the one accused of the verb), is what the verb is being acted on. 
+
+
+the difference of :
 
 "den Hund sieht der man."
 and 
